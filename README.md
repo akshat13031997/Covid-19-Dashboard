@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot (26)](https://user-images.githubusercontent.com/31111279/91061037-4f8f1680-e649-11ea-9815-5964c3299254.png)
+
 You can go to https://covid-19-dashboard-66bc4.web.app/ where the project is already hosted using Firebase.
 
 
