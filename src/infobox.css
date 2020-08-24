@@ -1,0 +1,19 @@
+.infoBox{
+    flex:1;
+    box-shadow:0 0 8px -4px rgba(0,0,0,0.5);
+    height: 120px;
+}
+.infoBox:not(:last-child){
+    margin-right: 15px;
+}
+.info-Box--selected{
+    border-top:10px solid red;
+}
+.info_box_title{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.info_box_cases:nth-of-type(1){
+    color: red;
+}
